@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d12898-b9dd-49f1-83a7-dd520c881642" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/files/barbershop-index.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/barbershop-item.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/barbershop-price.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/barbershop-shop.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/barbershop.sketch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/styleguide.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/studio.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -65,6 +60,7 @@
       <updated>1607280274651</updated>
       <workItem from="1607280275755" duration="312000" />
       <workItem from="1607322444180" duration="7757000" />
+      <workItem from="1607363290379" duration="1011000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1607332684908</created>
