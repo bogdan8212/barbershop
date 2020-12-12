@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22d12898-b9dd-49f1-83a7-dd520c881642" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/img/studio.jpg" afterDir="false" />
+    <list default="true" id="22d12898-b9dd-49f1-83a7-dd520c881642" name="Default Changelist" comment="update2">
+      <change afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/merchandise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product6.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -60,7 +74,8 @@
       <updated>1607280274651</updated>
       <workItem from="1607280275755" duration="312000" />
       <workItem from="1607322444180" duration="7757000" />
-      <workItem from="1607363290379" duration="1011000" />
+      <workItem from="1607363290379" duration="6688000" />
+      <workItem from="1607633316611" duration="2993000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1607332684908</created>
@@ -69,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607332684908</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update2">
+      <created>1607364578307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607364578307</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update2" />
   </component>
 </project>
