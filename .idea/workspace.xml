@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22d12898-b9dd-49f1-83a7-dd520c881642" name="Default Changelist" comment="update2">
-      <change afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/merchandise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/product6.jpeg" afterDir="false" />
+    <list default="true" id="22d12898-b9dd-49f1-83a7-dd520c881642" name="Default Changelist" comment="add &quot;merchandise.html&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +68,8 @@
       <workItem from="1607322444180" duration="7757000" />
       <workItem from="1607363290379" duration="6688000" />
       <workItem from="1607633316611" duration="2993000" />
+      <workItem from="1607746932411" duration="154000" />
+      <workItem from="1608228367753" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1607332684908</created>
@@ -91,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607364578307</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add &quot;merchandise.html&quot;">
+      <created>1607746991906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607746991906</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add &quot;merchandise.html&quot;">
+      <created>1607747007006</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607747007006</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="update2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update2" />
+    <MESSAGE value="add &quot;merchandise.html&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;merchandise.html&quot;" />
   </component>
 </project>
